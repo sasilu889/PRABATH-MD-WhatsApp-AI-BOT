@@ -15,7 +15,7 @@
       "required": true
     },
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "sasilu889",
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
